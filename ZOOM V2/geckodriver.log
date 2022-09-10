@@ -1,0 +1,496 @@
+1652137952195	geckodriver	INFO	Listening on 127.0.0.1:52857
+1652137955211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileRDIiAM"
+1652137955998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileRDIiAM\\search.json.mozlz4", (void 0)))
+1652137958955	Marionette	INFO	Listening on port 52899
+Read port: 52899
+1652137959032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AIAJDauAAQAAVINjHgMKJ_txOeSOqW7e7hiUpbLMe2-pgcNqp9Gk1end_qiN&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652137981671	Marionette	INFO	Stopped listening on port 52899
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652138007134	geckodriver	INFO	Listening on 127.0.0.1:53158
+1652138010052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileHQxXrr"
+1652138010693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileHQxXrr\\search.json.mozlz4", (void 0)))
+1652138013770	Marionette	INFO	Listening on port 64026
+Read port: 64026
+1652138013846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AIAJDauAAQAAVINjHgMKJ_txOeSOqW7e7hiUpbLMe2-pgcNqp9Gk1end_qiN&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652138165312	Marionette	INFO	Stopped listening on port 64026
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652138171569	geckodriver	INFO	Listening on 127.0.0.1:52485
+1652138174528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileDzXSpN"
+1652138175240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileDzXSpN\\search.json.mozlz4", (void 0)))
+1652138179597	Marionette	INFO	Listening on port 52520
+Read port: 52520
+1652138179660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AIAJDauAAQAAVINjHgMKJ_txOeSOqW7e7hiUpbLMe2-pgcNqp9Gk1end_qiN&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652138278917	geckodriver	INFO	Listening on 127.0.0.1:50801
+1652138281853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileN9ooPi"
+1652138282410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileN9ooPi\\search.json.mozlz4", (void 0)))
+1652138284831	Marionette	INFO	Listening on port 50835
+Read port: 50835
+1652138284882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AIAJDauAAQAAVINjHgMKJ_txOeSOqW7e7hiUpbLMe2-pgcNqp9Gk1end_qiN&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652138310197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: https://www.exai.com/blog/http-error-401, line 293: TypeError: $(...) is undefined
+[Parent 17664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.24.0/otBannerSdk.js, line 7: TypeError: Bt(...).el[0] is undefined
+1652138343835	Marionette	INFO	Stopped listening on port 50835
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652138514598	geckodriver	INFO	Listening on 127.0.0.1:61109
+1652138517549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilevE8PnX"
+1652138518195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilevE8PnX\\search.json.mozlz4", (void 0)))
+1652138520837	Marionette	INFO	Listening on port 61135
+Read port: 61135
+1652138520904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AIAJDauAAQAAVINjHgMKJ_txOeSOqW7e7hiUpbLMe2-pgcNqp9Gk1end_qiN&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652138552812	Marionette	INFO	Stopped listening on port 61135
+1652139635686	geckodriver	INFO	Listening on 127.0.0.1:62124
+1652139638597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileUGhhcQ"
+1652139639296	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileUGhhcQ\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+1652139678682	geckodriver	INFO	Listening on 127.0.0.1:62192
+1652139681709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilefiOKlP"
+1652139682411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilefiOKlP\\search.json.mozlz4", (void 0)))
+1652139685131	Marionette	INFO	Listening on port 62226
+Read port: 62226
+1652139685204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652139870740	geckodriver	INFO	Listening on 127.0.0.1:52372
+1652139873697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile03Ea8N"
+1652139874392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile03Ea8N\\search.json.mozlz4", (void 0)))
+1652139877068	Marionette	INFO	Listening on port 52403
+Read port: 52403
+1652139877171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652140027695	geckodriver	INFO	Listening on 127.0.0.1:63441
+1652140030630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileO6qg0m"
+1652140031269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileO6qg0m\\search.json.mozlz4", (void 0)))
+1652140033894	Marionette	INFO	Listening on port 63475
+Read port: 63475
+1652140033992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652140094935	Marionette	INFO	Stopped listening on port 63475
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652140252946	geckodriver	INFO	Listening on 127.0.0.1:61038
+1652140255873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileDmyTg8"
+1652140262659	geckodriver	INFO	Listening on 127.0.0.1:61058
+1652140265615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilefQliw9"
+1652140266245	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilefQliw9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+1652140323174	geckodriver	INFO	Listening on 127.0.0.1:61140
+1652140326161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileOJR5f9"
+1652140326791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileOJR5f9\\search.json.mozlz4", (void 0)))
+1652140329421	Marionette	INFO	Listening on port 61172
+Read port: 61172
+1652140329543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652140521726	geckodriver	INFO	Listening on 127.0.0.1:55561
+1652140524738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilerVHPgH"
+1652140525349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilerVHPgH\\search.json.mozlz4", (void 0)))
+1652140527956	Marionette	INFO	Listening on port 55591
+Read port: 55591
+1652140528081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: SecurityError: The operation is insecure.
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652140633699	geckodriver	INFO	Listening on 127.0.0.1:55756
+1652140636694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile63fxUT"
+1652140637418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile63fxUT\\search.json.mozlz4", (void 0)))
+1652140639992	Marionette	INFO	Listening on port 55783
+Read port: 55783
+1652140640120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: SecurityError: The operation is insecure.
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: SecurityError: The operation is insecure.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AMCAKKuAAQAAWOCWqewSmtY7cXJz8-9GSw9yhT79-G4jGCmLFIm60_PyCluT&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1652140811711	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652140846142	Marionette	INFO	Stopped listening on port 55783
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652140859995	geckodriver	INFO	Listening on 127.0.0.1:63807
+1652140862915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilezVJ76l"
+1652140863616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilezVJ76l\\search.json.mozlz4", (void 0)))
+1652140866217	Marionette	INFO	Listening on port 63836
+Read port: 63836
+1652140866291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1652140889629	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+1652140891812	Marionette	INFO	Stopped listening on port 63836
+1652140910920	geckodriver	INFO	Listening on 127.0.0.1:65073
+1652140913874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilef3YBoi"
+1652140914517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilef3YBoi\\search.json.mozlz4", (void 0)))
+1652140917059	Marionette	INFO	Listening on port 65100
+Read port: 65100
+1652140917124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141268559	geckodriver	INFO	Listening on 127.0.0.1:64449
+1652141271542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilenceuew"
+1652141272165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilenceuew\\search.json.mozlz4", (void 0)))
+1652141274851	Marionette	INFO	Listening on port 64479
+Read port: 64479
+1652141274995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652141366263	geckodriver	INFO	Listening on 127.0.0.1:64624
+1652141369228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile5kDx3e"
+1652141369865	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile5kDx3e\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+1652141499917	geckodriver	INFO	Listening on 127.0.0.1:58243
+1652141502904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileArUKid"
+1652141503507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileArUKid\\search.json.mozlz4", (void 0)))
+1652141506074	Marionette	INFO	Listening on port 58274
+Read port: 58274
+1652141506186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141645040	Marionette	INFO	Stopped listening on port 58274
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 11932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652141691980	geckodriver	INFO	Listening on 127.0.0.1:49324
+1652141694966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileEvIngo"
+1652141695579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileEvIngo\\search.json.mozlz4", (void 0)))
+1652141698288	Marionette	INFO	Listening on port 49357
+Read port: 49357
+1652141698321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652141706144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652141766424	geckodriver	INFO	Listening on 127.0.0.1:49472
+1652141769329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileR85muI"
+1652141769989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileR85muI\\search.json.mozlz4", (void 0)))
+1652141773205	Marionette	INFO	Listening on port 49512
+Read port: 49512
+1652141773319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652141885674	geckodriver	INFO	Listening on 127.0.0.1:61369
+1652141888657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilenks26w"
+1652141889286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilenks26w\\search.json.mozlz4", (void 0)))
+1652141891980	Marionette	INFO	Listening on port 61402
+Read port: 61402
+1652141892025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652141971496	Marionette	INFO	Stopped listening on port 61402
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652142014965	geckodriver	INFO	Listening on 127.0.0.1:61571
+1652142017916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileOZ6FAu"
+1652142018616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileOZ6FAu\\search.json.mozlz4", (void 0)))
+1652142021078	Marionette	INFO	Listening on port 61597
+Read port: 61597
+1652142021189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652142085166	Marionette	INFO	Stopped listening on port 61597
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652142162448	geckodriver	INFO	Listening on 127.0.0.1:61314
+1652142165509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileHKBSYR"
+1652142166177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofileHKBSYR\\search.json.mozlz4", (void 0)))
+1652142168838	Marionette	INFO	Listening on port 61345
+Read port: 61345
+1652142168875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652142424163	Marionette	INFO	Stopped listening on port 61345
+2142345939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilezFIEHG"
+1652142346544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilezFIEHG\\search.json.mozlz4", (void 0)))
+1652142349149	Marionette	INFO	Listening on port 49724
+Read port: 49724
+1652142349189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652142425875	geckodriver	INFO	Listening on 127.0.0.1:49868
+1652142428816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilexYqzXB"
+1652142429447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilexYqzXB\\search.json.mozlz4", (void 0)))
+1652142431905	Marionette	INFO	Listening on port 49895
+Read port: 49895
+1652142431946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+1652142484644	geckodriver	INFO	Listening on 127.0.0.1:50032
+1652142487626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilepkiOsO"
+1652142488256	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilepkiOsO\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5317: TypeError: this.PictureInPicture is undefined
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
+1652142546360	geckodriver	INFO	Listening on 127.0.0.1:50133
+1652142549299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile3WqaVn"
+1652142549958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile3WqaVn\\search.json.mozlz4", (void 0)))
+1652142552519	Marionette	INFO	Listening on port 50161
+Read port: 50161
+1652142552652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1652142570591	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AAD4Q6uAAQAAHRlKV-SfwFdrVKlpdFbGEBLyMGmvVwQzPbup4dirRx4Gxfyv&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1652142671161	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1652142733379	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+[Parent 30224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652143254758	geckodriver	INFO	Listening on 127.0.0.1:52454
+1652143257676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilep9nCfU"
+1652143258328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofilep9nCfU\\search.json.mozlz4", (void 0)))
+1652143261074	Marionette	INFO	Listening on port 52489
+Read port: 52489
+1652143261147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+1652143894118	geckodriver	INFO	Listening on 127.0.0.1:54363
+1652143897075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile32NQzG"
+1652143897678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cleit\\AppData\\Local\\Temp\\rust_mozprofile32NQzG\\search.json.mozlz4", (void 0)))
+1652143901036	Marionette	INFO	Listening on port 54410
+Read port: 54410
+1652143901157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652144006719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://us02web.zoom.us/assets/zm_bundle.js?seed=AEBvX6uAAQAAc7mKSOcTFBUp76EwLB2Ixe3tTKfK9nFwo0TdiyIAgcLd7wrG&uQHR71Sqnk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://us02st3.zoom.us/static/6.1.6366/js/app/vue/confirmSignUpWithAgeDialog.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://us02st3.zoom.us/static/6.1.6366/js/app/vue/confirmSignUpWithAgeDialog.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://us02st3.zoom.us/static/6.1.6366/js/app/vue/confirmSignUpWithAgeDialog.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://us02st3.zoom.us/static/6.1.6366/js/app/vue/confirmSignUpWithAgeDialog.min.js, line 1: unreachable code after return statement
+JavaScript error: https://us02web.zoom.us/ line 482 > injectedScript, line 3: TypeError: document.querySelector(...) is null
+JavaScript error: https://us02web.zoom.us/ line 482 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://us02web.zoom.us/ line 482 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://us02st1.zoom.us/static/6.1.6366/js/all.min.js, line 28: TypeError: offset is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://us02web.zoom.us"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 18292, MediaDecoderStateMachine #1] WARNING: 140be6e0cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+[Child 18292, MediaDecoderStateMachine #1] WARNING: 140b4d30df0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.24.0/otBannerSdk.js, line 7: TypeError: Bt(...).el[0] is undefined
+1652144363602	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6kAZB2R2IkMw87P0-iGviT-Bq_noDLkkkR6BhhZ9kEI.js line 1 > eval line 2959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6kAZB2R2IkMw87P0-iGviT-Bq_noDLkkkR6BhhZ9kEI.js line 1 > eval line 461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6kAZB2R2IkMw87P0-iGviT-Bq_noDLkkkR6BhhZ9kEI.js line 1 > eval line 883 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652144463621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://heartrockdown.xyz/?utm_campaign=3R60Iq_6TwnSLaZnPTupNSKfvhj857wOWHP26RZmXuw1&t=main9, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://heartrockdown.xyz/?utm_campaign=3R60Iq_6TwnSLaZnPTupNSKfvhj857wOWHP26RZmXuw1&t=main9, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://heartrockdown.xyz/?utm_campaign=3R60Iq_6TwnSLaZnPTupNSKfvhj857wOWHP26RZmXuw1&t=main9, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://heartrockdown.xyz/?utm_campaign=3R60Iq_6TwnSLaZnPTupNSKfvhj857wOWHP26RZmXuw1&t=main9, line 25: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652144467164	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1362: TypeError: window is undefined
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+1652144472230	Marionette	INFO	Stopped listening on port 54410
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: unwatch :: line 1710"  data: no]
+Stack: unwatch@resource://devtools/server/actors/targets/window-global.js:1710:28
+_unwatchDocShell@resource://devtools/server/actors/targets/window-global.js:799:30
+destroy@resource://devtools/server/actors/targets/window-global.js:681:12
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:253:30
+detach/<@resource://devtools/server/actors/targets/window-global.js:1129:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1710, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
